@@ -9,7 +9,7 @@ setup_args = dict(
     description='Fantastic ASCII',
     license='MIT',
     packages=find_packages(),
-    author='Matt',
+    author='Ronen',
     author_email='example@example.com'
 )
 
